@@ -25,6 +25,8 @@ public class RunBoot {
 		Object[] param = {"xiaomage","123456",1};
 		int i = jt.update(sql, param);
 		System.out.println(i);
+        System.out.println("i+1");
+
 		
 		
 
