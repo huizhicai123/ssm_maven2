@@ -7,6 +7,7 @@ public class RunBoot {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(RunBoot.class, args);
+		System.out.println("16:43");
 
 	}
 
